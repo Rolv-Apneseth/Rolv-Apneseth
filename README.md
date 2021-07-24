@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hey, I'm Rolv 👋
 
-<!--
-**Rolv-Apneseth/Rolv-Apneseth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Check out my portfolio website at [rolvapneseth.com](https://rolvapneseth.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About me
+
+I'm a self-taught software developer who loves solving problems. I have been learning how to code and applying that knowledge into projects for over a year now.
+
+I have experience with both desktop and web app development, because to me, it is the process of creating efficient and helpful products and tools which is the most important, not the medium used to achieve that goal.
+
+### GitHub Stats
+
+![rolv-apneseth stats](https://github-readme-stats.vercel.app/api?username=rolv-apneseth&show_icons=true&locale=en)
+
+![rolv-apneseth streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rolv-apneseth&)
