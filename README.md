@@ -2,7 +2,7 @@
 
 ---
 
-### Check out my portfolio website at [rolvapneseth.com](https://rolvapneseth.com/)
+### Check out my portfolio website at [rolvapneseth.com][Portfolio]
 
 ---
 
@@ -14,11 +14,20 @@ I have experience with both desktop and web app development, because to me, it i
 
 ### Relevant Links
 
-[<img src="./assets/images/linkedin.svg" alt="LinkedIn" height="40" width="50"></img>](https://www.linkedin.com/in/rolv-apneseth-6b47401b5/)
-[<img src="./assets/images/stack_overflow.svg" alt="LinkedIn" height="40" width="50"></img>](https://stackoverflow.com/users/14316282/rolv-apneseth)
+[<img src="./assets/images/linkedin.svg" alt="LinkedIn" height="40" width="50"></img>][LinkedIn]
+[<img src="./assets/images/stack_overflow.svg" alt="LinkedIn" height="40" width="50"></img>][Stack Overflow]
 
 ### GitHub Stats
 
-![rolv-apneseth stats](https://github-readme-stats.vercel.app/api?username=rolv-apneseth&show_icons=true&locale=en)
+![rolv-apneseth stats][GitHub Stats]
 
-![rolv-apneseth streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rolv-apneseth&)
+![rolv-apneseth streak stats][GitHub Streak Stats]
+
+
+<!-- DEFINITIONS -->
+[Portfolio]: https://rolvapneseth.com/
+[LinkedIn]: https://www.linkedin.com/in/rolv-apneseth-6b47401b5/
+[Stack Overflow]: https://stackoverflow.com/users/14316282/rolv-apneseth
+
+[GitHub Stats]: https://github-readme-stats.vercel.app/api?username=rolv-apneseth&show_icons=true&locale=en
+[GitHub Streak Stats]: https://github-readme-streak-stats.herokuapp.com/?user=rolv-apneseth&
