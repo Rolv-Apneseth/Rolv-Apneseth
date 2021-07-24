@@ -12,6 +12,11 @@ I'm a self-taught software developer who loves solving problems. I have been lea
 
 I have experience with both desktop and web app development, because to me, it is the process of creating efficient and helpful products and tools which is the most important, not the medium used to achieve that goal.
 
+### Relevant Links
+
+[<img src="./assets/images/linkedin.svg" alt="LinkedIn" height="40" width="50"></img>](https://www.linkedin.com/in/rolv-apneseth-6b47401b5/)
+[<img src="./assets/images/stack_overflow.svg" alt="LinkedIn" height="40" width="50"></img>](https://stackoverflow.com/users/14316282/rolv-apneseth)
+
 ### GitHub Stats
 
 ![rolv-apneseth stats](https://github-readme-stats.vercel.app/api?username=rolv-apneseth&show_icons=true&locale=en)
