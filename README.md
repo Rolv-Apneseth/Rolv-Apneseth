@@ -36,5 +36,5 @@ I have experience with both desktop and web app development, because to me, it i
 [Stack Overflow]: https://stackoverflow.com/users/14316282/rolv-apneseth
 [Email]: mailto:rolv.apneseth@gmail.com
 
-[GitHub Stats]: https://github-readme-stats.vercel.app/api?username=rolv-apneseth&show_icons=true&locale=en
-[GitHub Streak Stats]: https://github-readme-streak-stats.herokuapp.com/?user=rolv-apneseth&
+[GitHub Stats]: https://github-readme-stats.vercel.app/api?username=rolv-apneseth&show_icons=true&locale=en&hide=stars&count_private=true&theme=tokyonight
+[GitHub Streak Stats]: https://github-readme-streak-stats.herokuapp.com/?user=rolv-apneseth&theme=tokyonight
