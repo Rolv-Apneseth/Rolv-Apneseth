@@ -7,7 +7,7 @@
 ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝      ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝
 ```                                                                                                               
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&size=32&lines=Hey%2C+I'm+Rolv++%F0%9F%91%8B;I'm+a+Software+Developer!)](https://git.io/typing-svg)
+![Animated Typing Introductory SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=58A6FF&size=42&vCenter=true&height=40&lines=Rolv+Apneseth;Software+Developer!)
 ---
 
 ### Check out my portfolio website at [rolvapneseth.com][Portfolio]
