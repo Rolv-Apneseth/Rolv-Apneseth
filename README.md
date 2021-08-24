@@ -10,7 +10,7 @@
 
 ### About me
 
-I'm a self-taught software developer who loves solving problems. I have experience with both desktop and web app development, because to me, it is the process of creating efficient and helpful products and tools which is the most important, not the medium used to achieve that goal.
+I'm a self-taught software developer who loves solving problems. Pyhon is my favourite programming language (for now), but I'm also familiar with JavaScript, HTML, CSS and Bash, and I'm always willing to learn new tools/technologies.
 
 ### GitHub Stats
 
