@@ -14,9 +14,7 @@ I'm a self-taught software developer who loves solving problems. Pyhon is my fav
 
 ### GitHub Stats
 
-![rolv-apneseth stats][GitHub Stats]
-
-![rolv-apneseth streak stats][GitHub Streak Stats]
+![rolv-apneseth streak stats][GitHub Streak Stats] ![rolv-apneseth stats][GitHub Stats]
 
 
 <!-- DEFINITIONS -->
