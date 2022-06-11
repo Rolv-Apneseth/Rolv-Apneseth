@@ -13,8 +13,7 @@
 I'm a self-taught software developer who loves solving problems. Pyhon is my favourite programming language (for now), but I'm also familiar with JavaScript, HTML, CSS and Bash, and I'm always willing to learn new tools/technologies.
 
 ### GitHub Stats
-
-![rolv-apneseth streak stats][GitHub Streak Stats] ![rolv-apneseth stats][GitHub Stats]
+![rolv-apneseth stats][GitHub Stats]
 
 
 <!-- DEFINITIONS -->
@@ -30,4 +29,3 @@ I'm a self-taught software developer who loves solving problems. Pyhon is my fav
 [Shield: Gmail]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 [GitHub Stats]: https://github-readme-stats.vercel.app/api?username=rolv-apneseth&show_icons=true&locale=en&hide=stars&count_private=true&theme=tokyonight
-[GitHub Streak Stats]: https://github-readme-streak-stats.herokuapp.com/?user=rolv-apneseth&theme=tokyonight
